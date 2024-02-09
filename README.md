@@ -1,5 +1,5 @@
 # Analysis-of-Global-Causes-of-Deaths-2010-2019-
-Analysed by Zarqa Ayub
+Analyzed by Zarqa Ayub
 # Introduction
 According to WHO In 2019, the top 10 causes of death accounted for 55% of the 55.4 million deaths worldwide. The top global causes of death in order of total number of lives lost are associated with three broad topics Cardiovascular, respiratory, and neonatal conditions.
 # Data Source
@@ -20,13 +20,13 @@ It's an EDA whose purpose is to provide information about the major reasons behi
 # Data Limitations
 There are chances of collection bias or misinformation specifically in low-middle-income countries where they do not have proper death data collection system. For instance, someone may died of old age but been recorded as a sudden external injury. The actual number of deaths may be much higher than the recorded one because the data does not encompass all potential deaths.
 # Delieverables
-. Data Source (https://1drv.ms/b/c/9cd1d2e9394be26c/EWziSznp0tEggJxHBwAAAAABe5D52IwCYkQCF-Z7-z5EGw?e=LdYkjZ)
-. Exploring relationships
-. Geographical visualization
-. Supervised machine learning
-. Unsupervised machine learning
-. Sourcing and Analysing time series data
-. Creating Final report in Tableaue story
+1. Data Source (https://1drv.ms/b/c/9cd1d2e9394be26c/EWziSznp0tEggJxHBwAAAAABe5D52IwCYkQCF-Z7-z5EGw?e=LdYkjZ)
+2. Exploring relationships
+3. Geographical visualization
+4. Supervised machine learning
+5.  Unsupervised machine learning
+6.  Sourcing and Analysing time series data
+7.  Creating the Final report in Tableaue story
 # Final Report 
 Below find the link to the final report in Tableau
 https://public.tableau.com/app/profile/zarqa.ayub/viz/Achievement6CausesofDeaths/Story1?publish=yes
