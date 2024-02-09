@@ -1,4 +1,4 @@
-# Analysis-of-Global-Causes-of-Deaths-2010-2019-
+# Analysis of Global causes of Deaths(2010-2019)
 Analyzed by Zarqa Ayub
 # Introduction
 According to WHO In 2019, the top 10 causes of death accounted for 55% of the 55.4 million deaths worldwide. The top global causes of death in order of total number of lives lost are associated with three broad topics Cardiovascular, respiratory, and neonatal conditions.
